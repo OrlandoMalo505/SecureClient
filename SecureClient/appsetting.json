@@ -1,0 +1,8 @@
+﻿{
+  "Instance": "https://login.microsoftonline.com/{0}",
+  "TenantId": "73744c82-802f-4f14-b3be-a97df0787d17",
+  "ClientId": "7bb7eb4b-2e63-4a9b-bbf2-c8bc17670718",
+  "ClientSecret": "-qs7Q~IB0T0s5KRcl16eGJTYyHVmJ6pfOkpzv",
+  "BaseAddress": "https://localhost:7176/WeatherForecast",
+  "ResourceId": "api://83369b68-1c58-4351-9601-05a24d0b5096/.default"
+}
